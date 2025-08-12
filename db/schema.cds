@@ -1,3 +1,5 @@
+namespace my.bookshop;
+
 entity Clientes {
     key ID: Integer;
 }
